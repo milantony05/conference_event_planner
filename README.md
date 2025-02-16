@@ -2,8 +2,8 @@
 
 Conference Event Planner is a web application designed to help organize and manage conference events efficiently.
 
-<img width="814" alt="1" src="https://github.com/user-attachments/assets/d8dae54a-0922-462a-8826-e1bc0f218dda" />
-![2](https://github.com/user-attachments/assets/679adc26-3fe3-4f24-bd14-4b8be7376a4f)
+"814" alt="1" src="https://github.com/user-attachments/assets/d8dae54a-0922-462a-8826-e1bc0f218dda" />
+<img width=![2](https://github.com/user-attachments/assets/a3c3f4c5-3f4d-4706-9939-a2f0cf6495b1)
 <img width="786" alt="3" src="https://github.com/user-attachments/assets/6b4978dc-b613-488a-afcb-64192d6a4817" />
 
 ## Demo
