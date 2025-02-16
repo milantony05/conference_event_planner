@@ -10,7 +10,7 @@ Conference Event Planner is a web application designed to help organize and mana
 
 ## Demo
 
-Live Demo: [Conference Event Planner](https://milantony05.github.io/conference_event_planner/)
+Live demo: [Conference Event Planner](https://milantony05.github.io/conference_event_planner/)
 
 ## Installation
 
